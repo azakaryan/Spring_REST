@@ -1,2 +1,4 @@
 # spring_rest
-# spring_rest
+
+run server
+mvn spring-boot:run
